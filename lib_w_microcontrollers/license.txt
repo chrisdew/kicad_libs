@@ -1,5 +1,7 @@
 Kicad Library by W. Lain - kcswalter@member.fsf.org
 3/05/2014
+Extended by Chris Dew - chris@tux.io
+2014-12-11
 
 This library is released under the terms of either Creative Commons license v3.0, Attribution-Share Alike or GPLv3 or later.
 
